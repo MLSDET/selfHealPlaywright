@@ -191,39 +191,29 @@ Example:
 ---
 ##To Run the Tests
 To activate the local Python Environment
+
 source .venv/bin/activate 
 
 Run Tests:
+
 pytest tests/ --alluredir=reports/allure-results
 
 To Generate Report:
+
 allure generate reports/allure-results -o reports/allure-report --clean
 
 allure serve reports/allure-results  
 
-Sample ML locator predicted candidates
-Top Candidates:
+Sample report with healing
 
-                                          selector  prediction_score  id_similarity  text_similarity
-8                 #add-to-cart-sauce-labs-backpack          0.984005           1.00             0.82
-0                           #react-burger-menu-btn          0.011072           0.41             0.13
-14            #add-to-cart-sauce-labs-bolt-t-shirt          0.011072           0.94             0.82
-25                                 text="Facebook"          0.011072           0.00             0.55
-24                                  text="Twitter"          0.011072           0.00             0.29
-23  #add-to-cart-test.allthethings()-t-shirt-(red)          0.011072           0.67             0.82
-22                              #item_3_title_link          0.011072           0.24             0.25
-21                                #item_3_img_link          0.011072           0.23             0.00
-20                  #add-to-cart-sauce-labs-onesie          0.011072           0.92             0.82
-19                              #item_2_title_link          0.011072           0.24             0.56
+https://github.com/MLSDET/selfHealPlaywright/blob/main/Report_ScreenShot_With_Healing.png
+
+Sample locator candidate prediction
+
+https://github.com/MLSDET/selfHealPlaywright/blob/main/predicted_locator_candidate_ranking.png
+
 
 # Author
+Ramya Shetty
 
-Developed for demonstrating AI/ML-driven intelligent test automation and self-healing UI testing concepts using Python and Playwright.
-
----
-
-
-# License
-
-This project is licensed under the MIT License.
 
