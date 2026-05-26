@@ -1,0 +1,96 @@
+failed_locator,candidate_text,candidate_id,candidate_class,candidate_tag,text_similarity,id_similarity,class_similarity,tag_match,label
+Add to cart,Swag Labs,,,title,0.3,0.0,0.0,0,0
+Add to cart,,,form_group,div,0.0,0.0,0.19047619047619047,0,0
+Add to cart,,,,br,0.0,0.0,0.0,0,0
+Add to cart,Swag Labs,,login_logo,div,0.3,0.0,0.09523809523809523,0,0
+Add to cart,You need to enable JavaScript to run this app.,,,noscript,0.24561403508771928,0.0,0.0,0,0
+Add to cart,"Swag Labs
+Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+
+Password for all users:
+secret_sauce",,,html,0.08139534883720931,0.0,0.0,0,0
+Add to cart,,,form_group,div,0.0,0.0,0.19047619047619047,0,0
+Add to cart,"Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user",login_credentials,login_credentials,div,0.11290322580645161,0.07142857142857142,0.07142857142857142,0,0
+Add to cart,"!function(n){if(""/""===n.search[1]){var a=n.search.slice(1).split(""&"").map(function(n){return n.replace(/~and~/g,""&"")}).join(""?"");window.history.replaceState(null,null,n.pathname.slice(0,-1)+a+n.hash)}}(window.location)Swag Labs",,,head,0.025210084033613446,0.0,0.0,0,0
+Add to cart,,,,br,0.0,0.0,0.0,0,0
+Add to cart,,,,meta,0.0,0.0,0.0,0,0
+Add to cart,"Swag Labs
+Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+
+Password for all users:
+secret_sauce",,login_container,div,0.08139534883720931,0.0,0.15384615384615385,0,0
+Add to cart,"Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+
+Password for all users:
+secret_sauce",,login_credentials_wrap-inner,div,0.08641975308641975,0.0,0.15384615384615385,0,0
+Add to cart,,,,link,0.0,0.0,0.0,0,0
+Add to cart,,,,meta,0.0,0.0,0.0,0,0
+Add to cart,,login-button,submit-button btn_action,input,0.0,0.17391304347826086,0.2857142857142857,0,0
+Add to cart,"Swag Labs
+Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+
+Password for all users:
+secret_sauce",root,,div,0.08139534883720931,0.13333333333333333,0.0,0,0
+Add to cart,,,,br,0.0,0.0,0.0,0,0
+Add to cart,"!function(n){if(""/""===n.search[1]){var a=n.search.slice(1).split(""&"").map(function(n){return n.replace(/~and~/g,""&"")}).join(""?"");window.history.replaceState(null,null,n.pathname.slice(0,-1)+a+n.hash)}}(window.location)",,,script,0.017467248908296942,0.0,0.0,0,0
+Add to cart,,,,br,0.0,0.0,0.0,0,0
+Add to cart,,,login_wrapper-inner,div,0.0,0.0,0.13333333333333333,0,0
+Add to cart,"Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+
+Password for all users:
+secret_sauce",,login_wrapper,div,0.08641975308641975,0.0,0.16666666666666666,0,0
+Add to cart,,,,meta,0.0,0.0,0.0,0,0
+Add to cart,"Swag Labs
+Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+
+Password for all users:
+secret_sauce",,,body,0.08139534883720931,0.0,0.0,0,0
+Add to cart,,,,meta,0.0,0.0,0.0,0,0
+Add to cart,,,,script,0.0,0.0,0.0,0,0
+Add to cart,"Password for all users:
+secret_sauce",,login_password,div,0.2127659574468085,0.0,0.16,0,0
+Add to cart,,,,link,0.0,0.0,0.0,0,0
+Add to cart,,,,br,0.0,0.0,0.0,0,0
+Add to cart,,,,meta,0.0,0.0,0.0,0,0

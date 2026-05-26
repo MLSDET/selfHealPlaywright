@@ -1,0 +1,24 @@
+
+Locator failed: #add-to-cart-sauce-labs-backpack123
+
+
+Top Candidates:
+
+                                          selector  ...  text_similarity
+8                 #add-to-cart-sauce-labs-backpack  ...             0.82
+0                           #react-burger-menu-btn  ...             0.13
+14            #add-to-cart-sauce-labs-bolt-t-shirt  ...             0.82
+25                                 text="Facebook"  ...             0.50
+24                                  text="Twitter"  ...             0.29
+23  #add-to-cart-test.allthethings()-t-shirt-(red)  ...             0.82
+22                              #item_3_title_link  ...             0.24
+21                                #item_3_img_link  ...             0.00
+20                  #add-to-cart-sauce-labs-onesie  ...             0.82
+19                              #item_2_title_link  ...             0.53
+
+[10 rows x 4 columns]
+
+Recovered locator: #add-to-cart-sauce-labs-backpack
+
+
+Clicked healed locator successfully

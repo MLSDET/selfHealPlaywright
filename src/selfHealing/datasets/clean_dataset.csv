@@ -1,0 +1,163 @@
+locator_type,failed_locator,candidate_selector,candidate_id,candidate_text,candidate_tag,id_similarity,text_similarity,class_similarity,tag_match,is_correct
+id,#react-burger-menu-btn1234,#item_0_title_link,item_0_title_link,Sauce Labs Bike Light,a,0.29,0.25,0.0,0,0
+id,#item_1_title_link1234,"text=""""",,,a,0.0,0.0,0.45,1,0
+id,#item_2_img_link1234,#item_2_img_link,item_2_img_link,,a,1.0,0.0,0.0,1,1
+id,#item_3_title_link1234,#item_3_title_link,item_3_title_link,Test.allTheThings() T-Shirt (Red),a,1.0,0.38,0.0,1,1
+id,#item_1_img_link1234,#item_1_title_link,item_1_title_link,Sauce Labs Bolt T-Shirt,a,0.79,0.17,0.0,1,0
+id,#item_0_img_link1234,#item_4_img_link,item_4_img_link,,a,0.93,0.0,0.0,1,0
+id,#item_5_title_link1234,#item_5_title_link,item_5_title_link,Sauce Labs Fleece Jacket,a,1.0,0.19,0.0,1,1
+id,#add-to-cart-sauce-labs-bike-light1234,#about_sidebar_link,about_sidebar_link,About,a,0.39,0.4,0.41,0,0
+id,#react-burger-cross-btn1234,#inventory_sidebar_link,inventory_sidebar_link,All Items,a,0.29,0.33,0.25,0,0
+id,#add-to-cart-sauce-labs-onesie1234,#add-to-cart-test.allthethings()-t-shirt-(red),add-to-cart-test.allthethings()-t-shirt-(red),Add to cart,button,0.57,0.82,0.33,1,0
+id,#add-to-cart-sauce-labs-bike-light1234,#add-to-cart-sauce-labs-bike-light,add-to-cart-sauce-labs-bike-light,Add to cart,button,1.0,0.82,0.31,1,1
+id,#react-burger-cross-btn1234,#item_3_title_link,item_3_title_link,Test.allTheThings() T-Shirt (Red),a,0.21,0.29,0.0,0,0
+text,text=Sauce Labs Fleece Jacket123,"text=""Sauce Labs Fleece Jacket""",item_5_title_link,Sauce Labs Fleece Jacket,a,0.34,1.0,0.0,1,1
+id,#add-to-cart-sauce-labs-fleece-jacket1234,#react-burger-cross-btn,react-burger-cross-btn,Close Menu,button,0.36,0.4,0.0,1,0
+id,#item_5_img_link1234,#react-burger-menu-btn,react-burger-menu-btn,Open Menu,button,0.22,0.29,0.0,0,0
+id,#react-burger-cross-btn1234,#reset_sidebar_link,reset_sidebar_link,Reset App State,a,0.36,0.38,0.25,0,0
+id,#add-to-cart-sauce-labs-bolt-t-shirt1234,"text=""Twitter""",,Twitter,a,0.0,0.43,0.0,0,0
+id,#add-to-cart-test.allthethings()-t-shirt-(red)1234,#item_5_title_link,item_5_title_link,Sauce Labs Fleece Jacket,a,0.41,0.29,0.0,0,0
+id,#item_0_title_link1234,#add-to-cart-sauce-labs-onesie,add-to-cart-sauce-labs-onesie,Add to cart,button,0.24,0.2,0.32,0,0
+id,#add-to-cart-sauce-labs-onesie1234,#react-burger-cross-btn,react-burger-cross-btn,Close Menu,button,0.41,0.4,0.0,1,0
+id,#add-to-cart-sauce-labs-onesie1234,#item_5_img_link,item_5_img_link,,a,0.27,0.0,0.0,0,0
+id,#item_3_img_link1234,#item_2_img_link,item_2_img_link,,a,0.93,0.0,0.0,1,0
+id,#add-to-cart-sauce-labs-fleece-jacket1234,"text=""Facebook""",,Facebook,a,0.0,0.5,0.0,0,0
+id,#item_1_title_link1234,#item_3_img_link,item_3_img_link,,a,0.67,0.0,0.0,1,0
+text,text=Add to cart123,"text=""Add to cart""",add-to-cart-sauce-labs-onesie,Add to cart,button,0.6,1.0,0.32,1,1
+id,#reset_sidebar_link1234,#item_0_title_link,item_0_title_link,Sauce Labs Bike Light,a,0.53,0.37,0.0,1,0
+id,#add-to-cart-sauce-labs-backpack1234,#add-to-cart-sauce-labs-backpack,add-to-cart-sauce-labs-backpack,Add to cart,button,1.0,0.82,0.25,1,1
+id,#item_0_title_link1234,#add-to-cart-test.allthethings()-t-shirt-(red),add-to-cart-test.allthethings()-t-shirt-(red),Add to cart,button,0.32,0.2,0.32,0,0
+id,#item_2_title_link1234,#item_4_img_link,item_4_img_link,,a,0.67,0.0,0.0,1,0
+text,text=Test.allTheThings() T-Shirt (Red)123,"text=""Test.allTheThings() T-Shirt (Red)""",item_3_title_link,Test.allTheThings() T-Shirt (Red),a,0.42,1.0,0.0,1,1
+text,text=Open Menu123,"text=""Open Menu""",react-burger-menu-btn,Open Menu,button,0.41,1.0,0.0,1,1
+id,#item_5_title_link1234,#item_5_img_link,item_5_img_link,,a,0.73,0.0,0.0,1,0
+id,#item_5_title_link1234,#item_0_img_link,item_0_img_link,,a,0.67,0.0,0.0,1,0
+id,#item_4_title_link1234,#add-to-cart-sauce-labs-bike-light,add-to-cart-sauce-labs-bike-light,Add to cart,button,0.27,0.2,0.32,0,0
+id,#inventory_sidebar_link1234,#item_3_title_link,item_3_title_link,Test.allTheThings() T-Shirt (Red),a,0.53,0.29,0.0,1,0
+id,#item_4_img_link1234,#item_3_title_link,item_3_title_link,Test.allTheThings() T-Shirt (Red),a,0.73,0.29,0.0,1,0
+id,#item_0_img_link1234,#item_0_img_link,item_0_img_link,,a,1.0,0.0,0.0,1,1
+id,#add-to-cart-sauce-labs-bolt-t-shirt1234,#react-burger-cross-btn,react-burger-cross-btn,Close Menu,button,0.45,0.3,0.0,1,0
+id,#about_sidebar_link1234,#react-burger-cross-btn,react-burger-cross-btn,Close Menu,button,0.3,0.3,0.0,0,0
+id,#add-to-cart-sauce-labs-fleece-jacket1234,#about_sidebar_link,about_sidebar_link,About,a,0.33,0.4,0.35,0,0
+id,#item_3_title_link1234,"text=""Facebook""",,Facebook,a,0.0,0.25,0.0,1,0
+text,text=LinkedIn123,"text=""LinkedIn""",,LinkedIn,a,0.0,1.0,0.0,1,1
+id,#item_1_title_link1234,#item_2_img_link,item_2_img_link,,a,0.67,0.0,0.0,1,0
+id,#logout_sidebar_link1234,#reset_sidebar_link,reset_sidebar_link,Reset App State,a,0.78,0.22,0.21,1,0
+id,#item_5_img_link1234,"text=""LinkedIn""",,LinkedIn,a,0.0,0.5,0.0,1,0
+id,#inventory_sidebar_link1234,#item_5_title_link,item_5_title_link,Sauce Labs Fleece Jacket,a,0.53,0.25,0.0,1,0
+id,#logout_sidebar_link1234,#item_0_img_link,item_0_img_link,,a,0.53,0.0,0.0,1,0
+id,#item_1_img_link1234,#item_1_img_link,item_1_img_link,,a,1.0,0.0,0.0,1,1
+text,text=Reset App State123,"text=""Reset App State""",reset_sidebar_link,Reset App State,a,0.4,1.0,0.33,1,1
+id,#logout_sidebar_link1234,#add-to-cart-test.allthethings()-t-shirt-(red),add-to-cart-test.allthethings()-t-shirt-(red),Add to cart,button,0.29,0.27,0.33,0,0
+id,#react-burger-cross-btn1234,#add-to-cart-sauce-labs-bolt-t-shirt,add-to-cart-sauce-labs-bolt-t-shirt,Add to cart,button,0.41,0.35,0.3,1,0
+id,#item_4_title_link1234,#item_4_img_link,item_4_img_link,,a,0.73,0.0,0.0,1,0
+id,#add-to-cart-sauce-labs-onesie1234,#add-to-cart-sauce-labs-onesie,add-to-cart-sauce-labs-onesie,Add to cart,button,1.0,0.82,0.33,1,1
+id,#add-to-cart-test.allthethings()-t-shirt-(red)1234,#add-to-cart-test.allthethings()-t-shirt-(red),add-to-cart-test.allthethings()-t-shirt-(red),Add to cart,button,1.0,0.82,0.34,1,1
+text,text=Add to cart123,"text=""Add to cart""",add-to-cart-sauce-labs-bike-light,Add to cart,button,0.6,1.0,0.32,1,1
+id,#inventory_sidebar_link1234,#inventory_sidebar_link,inventory_sidebar_link,All Items,a,1.0,0.33,0.33,1,1
+id,#add-to-cart-sauce-labs-bolt-t-shirt1234,#item_5_title_link,item_5_title_link,Sauce Labs Fleece Jacket,a,0.27,0.46,0.0,0,0
+id,#item_5_img_link1234,"text=""Twitter""",,Twitter,a,0.0,0.55,0.0,1,0
+id,#add-to-cart-sauce-labs-fleece-jacket1234,#add-to-cart-sauce-labs-fleece-jacket,add-to-cart-sauce-labs-fleece-jacket,Add to cart,button,1.0,0.82,0.27,1,1
+id,#item_5_title_link1234,#add-to-cart-sauce-labs-onesie,add-to-cart-sauce-labs-onesie,Add to cart,button,0.24,0.2,0.32,0,0
+id,#logout_sidebar_link1234,#logout_sidebar_link,logout_sidebar_link,Logout,a,1.0,1.0,0.21,1,1
+id,#about_sidebar_link1234,#item_1_img_link,item_1_img_link,,a,0.53,0.0,0.0,1,0
+id,#item_0_title_link1234,"text=""""",,,a,0.0,0.0,0.45,1,0
+id,#item_5_title_link1234,#item_3_title_link,item_3_title_link,Test.allTheThings() T-Shirt (Red),a,0.94,0.38,0.0,1,0
+id,#add-to-cart-sauce-labs-bike-light1234,#add-to-cart-sauce-labs-fleece-jacket,add-to-cart-sauce-labs-fleece-jacket,Add to cart,button,0.78,0.82,0.31,1,0
+id,#add-to-cart-sauce-labs-bolt-t-shirt1234,#add-to-cart-sauce-labs-bolt-t-shirt,add-to-cart-sauce-labs-bolt-t-shirt,Add to cart,button,1.0,0.82,0.3,1,1
+id,#item_2_img_link1234,#add-to-cart-sauce-labs-bolt-t-shirt,add-to-cart-sauce-labs-bolt-t-shirt,Add to cart,button,0.17,0.14,0.3,0,0
+id,#add-to-cart-sauce-labs-backpack1234,#item_0_img_link,item_0_img_link,,a,0.2,0.0,0.0,0,0
+id,#logout_sidebar_link1234,"text=""LinkedIn""",,LinkedIn,a,0.0,0.5,0.0,1,0
+id,#item_0_img_link1234,#item_1_title_link,item_1_title_link,Sauce Labs Bolt T-Shirt,a,0.73,0.17,0.0,1,0
+id,#react-burger-menu-btn1234,"text=""LinkedIn""",,LinkedIn,a,0.0,0.25,0.0,0,0
+id,#item_1_img_link1234,#add-to-cart-sauce-labs-onesie,add-to-cart-sauce-labs-onesie,Add to cart,button,0.21,0.14,0.3,0,0
+id,#item_3_img_link1234,#item_1_img_link,item_1_img_link,,a,0.93,0.0,0.0,1,0
+id,#add-to-cart-test.allthethings()-t-shirt-(red)1234,#item_0_title_link,item_0_title_link,Sauce Labs Bike Light,a,0.41,0.33,0.0,0,0
+id,#item_4_title_link1234,#item_5_title_link,item_5_title_link,Sauce Labs Fleece Jacket,a,0.94,0.19,0.0,1,0
+id,#item_5_img_link1234,#add-to-cart-sauce-labs-onesie,add-to-cart-sauce-labs-onesie,Add to cart,button,0.21,0.14,0.3,0,0
+id,#item_2_img_link1234,#logout_sidebar_link,logout_sidebar_link,Logout,a,0.46,0.22,0.44,1,0
+id,#item_1_title_link1234,#item_1_title_link,item_1_title_link,Sauce Labs Bolt T-Shirt,a,1.0,0.26,0.0,1,1
+id,#item_2_img_link1234,#reset_sidebar_link,reset_sidebar_link,Reset App State,a,0.47,0.21,0.44,1,0
+id,#item_1_title_link1234,#item_0_img_link,item_0_img_link,,a,0.67,0.0,0.0,1,0
+text,text=All Items123,"text=""All Items""",inventory_sidebar_link,All Items,a,0.31,1.0,0.47,1,1
+id,#item_2_img_link1234,#item_4_img_link,item_4_img_link,,a,0.93,0.0,0.0,1,0
+id,#add-to-cart-sauce-labs-bike-light1234,#item_1_img_link,item_1_img_link,,a,0.29,0.0,0.0,0,0
+id,#add-to-cart-sauce-labs-bolt-t-shirt1234,#add-to-cart-sauce-labs-bike-light,add-to-cart-sauce-labs-bike-light,Add to cart,button,0.85,0.82,0.3,1,0
+id,#item_0_img_link1234,#item_2_title_link,item_2_title_link,Sauce Labs Onesie,a,0.73,0.19,0.0,1,0
+id,#item_0_title_link1234,#item_0_title_link,item_0_title_link,Sauce Labs Bike Light,a,1.0,0.27,0.0,1,1
+id,#item_5_img_link1234,#item_5_img_link,item_5_img_link,,a,1.0,0.0,0.0,1,1
+id,#item_4_title_link1234,#react-burger-cross-btn,react-burger-cross-btn,Close Menu,button,0.21,0.3,0.0,0,0
+id,#reset_sidebar_link1234,#item_3_title_link,item_3_title_link,Test.allTheThings() T-Shirt (Red),a,0.53,0.37,0.0,1,0
+id,#react-burger-menu-btn1234,#react-burger-menu-btn,react-burger-menu-btn,Open Menu,button,1.0,0.56,0.0,1,1
+id,#add-to-cart-test.allthethings()-t-shirt-(red)1234,#about_sidebar_link,about_sidebar_link,About,a,0.33,0.4,0.35,0,0
+text,text=Add to cart123,"text=""Add to cart""",add-to-cart-sauce-labs-bolt-t-shirt,Add to cart,button,0.6,1.0,0.32,1,1
+id,#item_3_img_link1234,#react-burger-menu-btn,react-burger-menu-btn,Open Menu,button,0.22,0.29,0.0,0,0
+id,#item_4_title_link1234,"text=""""",,,a,0.0,0.0,0.45,1,0
+id,#item_4_title_link1234,#item_4_title_link,item_4_title_link,Sauce Labs Backpack,a,1.0,0.21,0.0,1,1
+text,text=Add to cart123,"text=""Add to cart""",add-to-cart-sauce-labs-backpack,Add to cart,button,0.6,1.0,0.32,1,1
+id,#item_5_title_link1234,#add-to-cart-sauce-labs-fleece-jacket,add-to-cart-sauce-labs-fleece-jacket,Add to cart,button,0.2,0.2,0.32,0,0
+id,#item_3_img_link1234,#item_3_img_link,item_3_img_link,,a,1.0,0.0,0.0,1,1
+id,#item_4_img_link1234,#item_5_img_link,item_5_img_link,,a,0.93,0.0,0.0,1,0
+id,#add-to-cart-sauce-labs-backpack1234,#item_4_title_link,item_4_title_link,Sauce Labs Backpack,a,0.24,0.89,0.0,0,0
+id,#item_3_title_link1234,#item_1_img_link,item_1_img_link,,a,0.67,0.0,0.0,1,0
+id,#inventory_sidebar_link1234,#add-to-cart-test.allthethings()-t-shirt-(red),add-to-cart-test.allthethings()-t-shirt-(red),Add to cart,button,0.3,0.3,0.5,0,0
+text,text=Logout123,"text=""Logout""",logout_sidebar_link,Logout,a,0.6,1.0,0.3,1,1
+id,#react-burger-menu-btn1234,"text=""""",,,a,0.0,0.0,0.24,0,0
+id,#inventory_sidebar_link1234,#add-to-cart-sauce-labs-bolt-t-shirt,add-to-cart-sauce-labs-bolt-t-shirt,Add to cart,button,0.26,0.3,0.5,0,0
+id,#about_sidebar_link1234,#about_sidebar_link,about_sidebar_link,About,a,1.0,1.0,0.29,1,1
+id,#reset_sidebar_link1234,#logout_sidebar_link,logout_sidebar_link,Logout,a,0.76,0.17,0.29,1,0
+id,#inventory_sidebar_link1234,#add-to-cart-sauce-labs-bike-light,add-to-cart-sauce-labs-bike-light,Add to cart,button,0.3,0.3,0.5,0,0
+id,#add-to-cart-sauce-labs-backpack1234,#logout_sidebar_link,logout_sidebar_link,Logout,a,0.32,0.33,0.29,0,0
+id,#add-to-cart-sauce-labs-backpack1234,"text=""Facebook""",,Facebook,a,0.0,0.5,0.0,0,0
+id,#add-to-cart-sauce-labs-onesie1234,#react-burger-menu-btn,react-burger-menu-btn,Open Menu,button,0.38,0.33,0.0,1,0
+id,#item_5_img_link1234,#item_3_title_link,item_3_title_link,Test.allTheThings() T-Shirt (Red),a,0.73,0.29,0.0,1,0
+id,#item_0_title_link1234,"text=""Twitter""",,Twitter,a,0.0,0.57,0.0,1,0
+id,#item_1_img_link1234,#add-to-cart-test.allthethings()-t-shirt-(red),add-to-cart-test.allthethings()-t-shirt-(red),Add to cart,button,0.25,0.14,0.3,0,0
+id,#add-to-cart-sauce-labs-bike-light1234,"text=""Facebook""",,Facebook,a,0.0,0.5,0.0,0,0
+id,#add-to-cart-sauce-labs-onesie1234,#item_0_img_link,item_0_img_link,,a,0.27,0.0,0.0,0,0
+text,text=Facebook123,"text=""Facebook""",,Facebook,a,0.0,1.0,0.0,1,1
+id,#item_1_img_link1234,#item_4_img_link,item_4_img_link,,a,0.93,0.0,0.0,1,0
+text,text=Add to cart123,"text=""Add to cart""",add-to-cart-test.allthethings()-t-shirt-(red),Add to cart,button,0.6,1.0,0.32,1,1
+text,text=Twitter123,"text=""Twitter""",,Twitter,a,0.0,1.0,0.0,1,1
+text,text=Sauce Labs Backpack123,"text=""Sauce Labs Backpack""",item_4_title_link,Sauce Labs Backpack,a,0.34,1.0,0.0,1,1
+id,#item_2_img_link1234,#add-to-cart-sauce-labs-fleece-jacket,add-to-cart-sauce-labs-fleece-jacket,Add to cart,button,0.15,0.14,0.3,0,0
+id,#item_3_title_link1234,#inventory_sidebar_link,inventory_sidebar_link,All Items,a,0.5,0.57,0.47,1,0
+id,#add-to-cart-test.allthethings()-t-shirt-(red)1234,#item_3_title_link,item_3_title_link,Test.allTheThings() T-Shirt (Red),a,0.41,0.94,0.0,0,0
+id,#reset_sidebar_link1234,#add-to-cart-sauce-labs-onesie,add-to-cart-sauce-labs-onesie,Add to cart,button,0.33,0.27,0.35,0,0
+id,#logout_sidebar_link1234,#about_sidebar_link,about_sidebar_link,About,a,0.89,0.6,0.21,1,0
+text,text=Close Menu123,"text=""Close Menu""",react-burger-cross-btn,Close Menu,button,0.33,1.0,0.0,1,1
+id,#react-burger-menu-btn1234,#add-to-cart-sauce-labs-fleece-jacket,add-to-cart-sauce-labs-fleece-jacket,Add to cart,button,0.34,0.35,0.31,1,0
+id,#add-to-cart-sauce-labs-fleece-jacket1234,#logout_sidebar_link,logout_sidebar_link,Logout,a,0.26,0.33,0.35,0,0
+id,#item_1_img_link1234,#react-burger-menu-btn,react-burger-menu-btn,Open Menu,button,0.22,0.29,0.0,0,0
+id,#react-burger-menu-btn1234,#item_1_img_link,item_1_img_link,,a,0.27,0.0,0.0,0,0
+id,#item_4_img_link1234,#item_4_img_link,item_4_img_link,,a,1.0,0.0,0.0,1,1
+id,#item_3_img_link1234,#add-to-cart-sauce-labs-fleece-jacket,add-to-cart-sauce-labs-fleece-jacket,Add to cart,button,0.15,0.14,0.3,0,0
+text,text=Add to cart123,"text=""Add to cart""",add-to-cart-sauce-labs-fleece-jacket,Add to cart,button,0.6,1.0,0.32,1,1
+id,#reset_sidebar_link1234,#about_sidebar_link,about_sidebar_link,About,a,0.78,0.2,0.29,1,0
+id,#item_4_img_link1234,#react-burger-menu-btn,react-burger-menu-btn,Open Menu,button,0.22,0.29,0.0,0,0
+id,#add-to-cart-test.allthethings()-t-shirt-(red)1234,#add-to-cart-sauce-labs-bike-light,add-to-cart-sauce-labs-bike-light,Add to cart,button,0.62,0.82,0.34,1,0
+id,#item_2_title_link1234,#item_1_title_link,item_1_title_link,Sauce Labs Bolt T-Shirt,a,0.94,0.26,0.0,1,0
+text,text=Sauce Labs Bolt T-Shirt123,"text=""Sauce Labs Bolt T-Shirt""",item_1_title_link,Sauce Labs Bolt T-Shirt,a,0.34,1.0,0.0,1,1
+id,#item_2_title_link1234,#item_2_title_link,item_2_title_link,Sauce Labs Onesie,a,1.0,0.24,0.0,1,1
+id,#about_sidebar_link1234,#item_5_img_link,item_5_img_link,,a,0.53,0.0,0.0,1,0
+text,text=About123,"text=""About""",about_sidebar_link,About,a,0.56,1.0,0.31,1,1
+id,#reset_sidebar_link1234,#reset_sidebar_link,reset_sidebar_link,Reset App State,a,1.0,0.54,0.29,1,1
+id,#add-to-cart-sauce-labs-bike-light1234,#item_4_title_link,item_4_title_link,Sauce Labs Backpack,a,0.29,0.58,0.0,0,0
+id,#react-burger-cross-btn1234,#react-burger-cross-btn,react-burger-cross-btn,Close Menu,button,1.0,0.4,0.0,1,1
+id,#item_0_img_link1234,#react-burger-menu-btn,react-burger-menu-btn,Open Menu,button,0.22,0.29,0.0,0,0
+text,text=Sauce Labs Onesie123,"text=""Sauce Labs Onesie""",item_2_title_link,Sauce Labs Onesie,a,0.34,1.0,0.0,1,1
+id,#about_sidebar_link1234,#add-to-cart-sauce-labs-bolt-t-shirt,add-to-cart-sauce-labs-bolt-t-shirt,Add to cart,button,0.36,0.35,0.39,0,0
+id,#add-to-cart-sauce-labs-bolt-t-shirt1234,#item_4_img_link,item_4_img_link,,a,0.27,0.0,0.0,0,0
+id,#item_3_img_link1234,#add-to-cart-sauce-labs-bolt-t-shirt,add-to-cart-sauce-labs-bolt-t-shirt,Add to cart,button,0.17,0.14,0.3,0,0
+text,text=Sauce Labs Bike Light123,"text=""Sauce Labs Bike Light""",item_0_title_link,Sauce Labs Bike Light,a,0.34,1.0,0.0,1,1
+id,#add-to-cart-sauce-labs-fleece-jacket1234,#item_1_title_link,item_1_title_link,Sauce Labs Bolt T-Shirt,a,0.24,0.48,0.0,0,0
+id,#item_0_img_link1234,#add-to-cart-sauce-labs-fleece-jacket,add-to-cart-sauce-labs-fleece-jacket,Add to cart,button,0.15,0.14,0.3,0,0
+id,#item_3_title_link1234,#add-to-cart-sauce-labs-fleece-jacket,add-to-cart-sauce-labs-fleece-jacket,Add to cart,button,0.2,0.2,0.32,0,0
+id,#item_2_title_link1234,#logout_sidebar_link,logout_sidebar_link,Logout,a,0.49,0.22,0.47,1,0
+id,#about_sidebar_link1234,"text=""""",,,a,0.0,0.0,0.53,1,0
+id,#item_4_img_link1234,#item_3_img_link,item_3_img_link,,a,0.93,0.0,0.0,1,0
+id,#item_3_title_link1234,#add-to-cart-sauce-labs-bolt-t-shirt,add-to-cart-sauce-labs-bolt-t-shirt,Add to cart,button,0.26,0.2,0.32,0,0
+id,#item_4_img_link1234,"text=""LinkedIn""",,LinkedIn,a,0.0,0.5,0.0,1,0
+id,#item_2_title_link1234,#reset_sidebar_link,reset_sidebar_link,Reset App State,a,0.5,0.29,0.47,1,0
+id,#add-to-cart-sauce-labs-backpack1234,#add-to-cart-sauce-labs-bike-light,add-to-cart-sauce-labs-bike-light,Add to cart,button,0.83,0.82,0.25,1,0
+id,#item_0_title_link1234,#item_5_img_link,item_5_img_link,,a,0.67,0.0,0.0,1,0

@@ -1,0 +1,2 @@
+
+Clicked original locator: #add-to-cart-sauce-labs-backpack
